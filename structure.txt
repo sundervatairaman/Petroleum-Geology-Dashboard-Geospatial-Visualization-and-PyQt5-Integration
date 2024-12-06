@@ -1,0 +1,8 @@
+geospatial-visualization/
+├── assets/                # Directory for shapefiles and static files
+│   ├── plates.shp         # Example shapefile
+│   ├── cratons.shp        # Example shapefile
+│   └── ...
+├── main.py                # Main application script
+├── README.md              # Project documentation
+└── requirements.txt       # Python dependencies
