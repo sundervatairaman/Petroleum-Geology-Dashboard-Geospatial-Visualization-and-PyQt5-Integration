@@ -1,0 +1,5 @@
+dash>=2.0.0
+plotly>=5.0.0
+geopandas>=0.10.0
+PyQt5>=5.15.0
+matplotlib>=3.4.0
