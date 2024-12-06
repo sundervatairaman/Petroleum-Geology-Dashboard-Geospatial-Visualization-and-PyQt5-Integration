@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Drummer, Thomas D.</origin>
+        <pubdate>199808</pubdate>
+        <title>Generalized Geology of the Former Soviet Union (geo1ec)</title>
+        <geoform>Downloadable GIS Data</geoform>
+        <pubinfo>
+          <pubplace>Reston,VA</pubplace>
+          <publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+        </pubinfo>
+        <lworkcit>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <origin>Persits, F.M., Ulmishek, G.R., and Steinshouer, D.W.</origin>
+            <pubdate>1998</pubdate>
+            <title>Map showing Geology, Oil and Gas Fields and Geological Provinces of the Former Soviet Union</title>
+            <geoform>Digital Maps</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey Open-File Report</sername>
+              <issue>OFR-97-470-E</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Denver, Colorado, USA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Open File Report 97-470E is one of a series of continental-scale geologic maps of the world being published on CD-ROM by the U.S. Geological Survey's World Energy Project.</othercit>
+            <onlink>https://pubs.usgs.gov/of/1997/ofr-97-470/OF97-470E/</onlink>
+          </citeinfo>
+        </lworkcit>
+        <onlink>https://doi.org/10.5066/P9GUL0PQ</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The data set outlines and describes the general geologic age and type of bedrock of the Former Soviet Union and selected adjacent areas.  It also includes shoreline and inland water bodies.</abstract>
+      <purpose>Although a geologic map displays the geographic distribution of the different geologic units and rock types for numerous purposes, this data set is compiled primarily for the World Energy Project as part of a required strategic base for assessing the petroleum potential of this region.  For this purpose, the map basically provides an outline of the general geographic distribution of both known or hypothetical petroleum-potential formations and units, i.e., sedimentary rocks and basins, and areas containing igneous and metamorphic rocks which have little or no potential.  The map is also compiled, in part, to provide a basis for outlining the geographic and petroleum provinces.  This basic geologic data set, combined with others, such as tectonic and burial histories, distribution of known oil and gas fields, distribution and quality of reservoir rocks, organic geochemistry, etc., ultimately defines the basis for the assessment of undiscovered oil and gas in the Former Soviet Union.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1998</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>3.4409298</westbc>
+        <eastbc>138.20580296</eastbc>
+        <northbc>59.40090232</northbc>
+        <southbc>25.65662214</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>Oil</themekey>
+        <themekey>Gas</themekey>
+        <themekey>Geology</themekey>
+        <themekey>Former Soviet Union</themekey>
+        <themekey>Russia</themekey>
+        <themekey>Geologic Province</themekey>
+        <themekey>Geologic map</themekey>
+      </theme>
+      <theme>
+        <themekt>Gateway to the Earth Thesaurus</themekt>
+        <themekey>Oil shale resources</themekey>
+        <themekey>Oil sand resources</themekey>
+        <themekey>Natural gas resources</themekey>
+        <themekey>Economic geology</themekey>
+      </theme>
+      <theme>
+        <themekt>ArcIMS Metadata Server Theme Codes Thesaurus</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Energy Program Themes Thesaurus</themekt>
+        <themekey>Earth Science</themekey>
+        <themekey>Natural Resources</themekey>
+        <themekey>U.S. Geological Survey</themekey>
+        <themekey>USGS</themekey>
+        <themekey>Geology</themekey>
+        <themekey>Oil</themekey>
+        <themekey>Natural Gas</themekey>
+        <themekey>Petroleum</themekey>
+        <themekey>Resource Assessment</themekey>
+      </theme>
+      <theme>
+        <themekt>EnergyResourceActivities</themekt>
+        <themekey>oilgas</themekey>
+        <themekey>wep</themekey>
+        <themekey>worldgeologicmaps</themekey>
+        <themekey>fsu</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Former Soviet Union</placekey>
+        <placekey>Armenia</placekey>
+        <placekey>Azerbaijan</placekey>
+        <placekey>Byelarus</placekey>
+        <placekey>Commonwealth of Independant States</placekey>
+        <placekey>Estonia</placekey>
+        <placekey>Former Soviet Union</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Kazakhstan</placekey>
+        <placekey>Kyrgyzstan</placekey>
+        <placekey>Latvia</placekey>
+        <placekey>Lithuania</placekey>
+        <placekey>Moldova</placekey>
+        <placekey>Russia</placekey>
+        <placekey>Tajikistan</placekey>
+        <placekey>Turkmenistan</placekey>
+        <placekey>Ukraine</placekey>
+        <placekey>Uzbekistan</placekey>
+      </place>
+      <place>
+        <placekt>USGS Energy Program Petroleum Assessment Units</placekt>
+        <placekey>Admiralty Arch, Province 1061</placekey>
+        <placekey>Afghan-Tajik Basin, Province 1156</placekey>
+        <placekey>Alakol Basin, Province 1169</placekey>
+        <placekey>Alay Basin, Province 1160</placekey>
+        <placekey>Aldan Shield, Province 1216</placekey>
+        <placekey>Aldan Uplift, Province 1215</placekey>
+        <placekey>Altay-Sayan Folded Region, Province 1219</placekey>
+        <placekey>Amu-Darya Basin, Province 1154</placekey>
+        <placekey>Anabar Basin, Province 1200</placekey>
+        <placekey>Anabar-Olenek High, Province 1202</placekey>
+        <placekey>Anadyr Basin, Province 1300</placekey>
+        <placekey>Angara-Lena Terrace, Province 1209</placekey>
+        <placekey>Aniva Basin, Province 1327</placekey>
+        <placekey>Anzhu Uplift, Province 1255</placekey>
+        <placekey>Arctic Ocean Slope, Province 1117</placekey>
+        <placekey>Ayon Basin, Province 1253</placekey>
+        <placekey>Azov-Kuban Basin, Province 1108</placekey>
+        <placekey>Baikal-Patom Folded Region, Province 1230</placekey>
+        <placekey>Baykit Arch, Province 1207</placekey>
+        <placekey>Belorussian-Voronezh High, Province 1004</placekey>
+        <placekey>Black Sea Continental Slope, Province 1107</placekey>
+        <placekey>Black Sea Deep-Water Basin, Province 1102</placekey>
+        <placekey>Blagoveshchensk Basin, Province 1254</placekey>
+        <placekey>Bureya-Dunbey Region, Province 1220</placekey>
+        <placekey>Central Kamchatka Group of Basins, Province 1312</placekey>
+        <placekey>Central Kara High, Province 1070</placekey>
+        <placekey>Central Kazakhstan Folded Region, Province 1168</placekey>
+        <placekey>Central Okhotsk High, Province 1319</placekey>
+        <placekey>Chu-Sarysu Basin, Province 1165</placekey>
+        <placekey>Cis-Patom Foredeep, Province 1211</placekey>
+        <placekey>Cis-Sayan Basin, Province 1208</placekey>
+        <placekey>Crimea High, Province 1104</placekey>
+        <placekey>De Long High, Province 1257</placekey>
+        <placekey>Deryugin Basin, Province 1321</placekey>
+        <placekey>Dnieper-Donets Basin, Province 1009</placekey>
+        <placekey>Dobrogea Foreland, Province 1103</placekey>
+        <placekey>Donbass Foldbelt, Province 1014</placekey>
+        <placekey>East Aral Basin, Province 1151</placekey>
+        <placekey>East Aral Slope, Province 1178</placekey>
+        <placekey>East Ili Basin, Province 1164</placekey>
+        <placekey>East Kamchatka Basin, Province 1315</placekey>
+        <placekey>East Kamchatka Uplift, Province 1313</placekey>
+        <placekey>East Sakhalin Uplift, Province 1323</placekey>
+        <placekey>Fergana Basin, Province 1159</placekey>
+        <placekey>Gangut High, Province 1301</placekey>
+        <placekey>Gizhigin Basin, Province 1307</placekey>
+        <placekey>Great Caucasus Foldbelt, Province 1110</placekey>
+        <placekey>Grumant Uplift, Province 1064</placekey>
+        <placekey>Issyk-Kul Basin, Province 1162</placekey>
+        <placekey>Karabogaz-Karakum High, Province 1153</placekey>
+        <placekey>Kempendiay Region, Province 1212</placekey>
+        <placekey>Khanka Basin, Province 1226</placekey>
+        <placekey>Khatanga Saddle, Province 1201</placekey>
+        <placekey>Khatyrka Basin, Province 1302</placekey>
+        <placekey>Kinkil Basin, Province 1305</placekey>
+        <placekey>Kola Monocline-Finnmark Platform, Province 1051</placekey>
+        <placekey>Koni-Tayganos Uplift, Province 1308</placekey>
+        <placekey>Kopet-Dag Foldbelt, Province 1155</placekey>
+        <placekey>Koryak-Kamchatka Foldbelt, Province 1304</placekey>
+        <placekey>Kotelnich Arch, Province 1005</placekey>
+        <placekey>Kura Basin, Province 1113</placekey>
+        <placekey>Kuril-Kamchatka Slope, Province 1316</placekey>
+        <placekey>Kuznetsk Basin, Province 1171</placekey>
+        <placekey>Laptev Shelf, Province 1218</placekey>
+        <placekey>Lena-Vilyuy Basin, Province 1214</placekey>
+        <placekey>Ludlov Saddle, Province 1059</placekey>
+        <placekey>Mangyshlak-Ustyurt Foldbelt, Province 1152</placekey>
+        <placekey>Mezen Basin, Province 1006</placekey>
+        <placekey>Middle Amur Basin, Province 1227</placekey>
+        <placekey>Middle Caspian Basin, Province 1109</placekey>
+        <placekey>Moma Basin, Province 1252</placekey>
+        <placekey>Moscow Basin, Province 1003</placekey>
+        <placekey>Mugodzhary-South Emba, Province 1018</placekey>
+        <placekey>Naryn Basin, Province 1161</placekey>
+        <placekey>Nepa-Botuoba Arch, Province 1210</placekey>
+        <placekey>North Barents Basin, Province 1060</placekey>
+        <placekey>North Caspian Basin, Province 1016</placekey>
+        <placekey>North Chukchi Basin, Province 1258</placekey>
+        <placekey>North Crimea Basin, Province 1105</placekey>
+        <placekey>North Minusa Basin, Province 1172</placekey>
+        <placekey>North Novaya Zemlya Basin, Province 1065</placekey>
+        <placekey>North Okhotsk Group of Basins, Province 1309</placekey>
+        <placekey>North Sakhalin Basin, Province 1322</placekey>
+        <placekey>North Ustyurt Basin, Province 1150</placekey>
+        <placekey>Northeast Black Sea Shelf, Province 1106</placekey>
+        <placekey>Novaya Zemlya Monocline, Province 1062</placekey>
+        <placekey>Novosibirsk Basin, Province 1256</placekey>
+        <placekey>Olyutor Basin, Province 1314</placekey>
+        <placekey>Onekotan Basin, Province 1317</placekey>
+        <placekey>Pamir High, Province 1157</placekey>
+        <placekey>Penzhina Basin, Province 1303</placekey>
+        <placekey>Poles Saddle, Province 1012</placekey>
+        <placekey>Pripyat Basin, Province 1010</placekey>
+        <placekey>Rioni Basin, Province 1111</placekey>
+        <placekey>Russian Craton Margin, Province 1011</placekey>
+        <placekey>Schmidt Basin, Province 1071</placekey>
+        <placekey>Severnaya Zemlya High, Province 1072</placekey>
+        <placekey>Sikhote-Alin Folded Region, Province 1224</placekey>
+        <placekey>South Barents Basin, Province 1050</placekey>
+        <placekey>South Caspian Basin, Province 1112</placekey>
+        <placekey>South Chukchi-Hope Basin, Province 1261</placekey>
+        <placekey>South Kuril Basin, Province 1318</placekey>
+        <placekey>South Minusa Basin, Province 1173</placekey>
+        <placekey>South Okhotsk Basin, Province 1320</placekey>
+        <placekey>South Turgay Basin, Province 1167</placekey>
+        <placekey>St. Anna Basin, Province 1066</placekey>
+        <placekey>Suifun Basin, Province 1225</placekey>
+        <placekey>Susunay Uplift, Province 1326</placekey>
+        <placekey>Syr-Darya Basin, Province 1177</placekey>
+        <placekey>Taimyr-Kara High, Province 1176</placekey>
+        <placekey>Talov Uplift, Province 1306</placekey>
+        <placekey>Tatar Strait Basin, Province 1328</placekey>
+        <placekey>Terpeniya Bay Basin, Province 1324</placekey>
+        <placekey>Tian Shan Foldbelt, Province 1158</placekey>
+        <placekey>Timan High, Province 1007</placekey>
+        <placekey>Timan-Pechora Basin, Province 1008</placekey>
+        <placekey>Tinro Basin, Province 1310</placekey>
+        <placekey>Tunguska Basin, Province 1203</placekey>
+        <placekey>Turgay Depression, Province 1166</placekey>
+        <placekey>Turukhan-Igarka Uplift, Province 1205</placekey>
+        <placekey>Turukhan-Norilsk Folded Zone, Province 1204</placekey>
+        <placekey>Uedineniya Basin, Province 1069</placekey>
+        <placekey>Ukrainian Shield, Province 1013</placekey>
+        <placekey>Upper Bureya Basin, Province 1223</placekey>
+        <placekey>Upper Zeya Basin, Province 1217</placekey>
+        <placekey>Ural-Novaya Zemlya Foldbelt, Province 1017</placekey>
+        <placekey>Ushakov High, Province 1068</placekey>
+        <placekey>Verkhoyan-Chukotka Folded Region, Province 1250</placekey>
+        <placekey>Vize High, Province 1067</placekey>
+        <placekey>Volga-Ural Region, Province 1015</placekey>
+        <placekey>West Ili Basin, Province 1163</placekey>
+        <placekey>West Kamchatka Basin, Province 1311</placekey>
+        <placekey>West Sakhalin Uplift, Province 1325</placekey>
+        <placekey>West Siberian Basin, Province 1174</placekey>
+        <placekey>Wrangel Basin, Province 1259</placekey>
+        <placekey>Wrangel-Herald Uplift, Province 1260</placekey>
+        <placekey>Yenisey Ridge, Province 1206</placekey>
+        <placekey>Yenisey-Khatanga Basin, Province 1175</placekey>
+        <placekey>Zaysan Basin, Province 1170</placekey>
+        <placekey>Zeya-Bureya Basin, Province 1222</placekey>
+        <placekey>Zyryanka Basin, Province 1251</placekey>
+      </place>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:60ad3d53d34e4043c850f275</themekey>
+      </theme>
+    </keywords>
+    <accconst>ESRI and MapObjects are registerd trademarks in the United States and are either trademarks or registered trademarks in all other countries where they are used, and ArcExplorer is a trademark of Environmental Systems Research, Inc.</accconst>
+    <useconst>Portions of this database covering coastline and country boundaries contain intellectual property of Environmental Systems Research Institute, Inc. (ESRI), and are used with permission.  End users are permitted to use these data sets for their own internal use, including derivative work, but are prohibited from using and redistributing these data individually or in a derivative work to third parties.  Please refer to the "ATTACHMENT B" file (attach_b.txt) on this CD-ROM for further information on ESRI's license agreement.  ESRI and MapObjects are registerd trademarks in the United States and are either trademarks or registered trademarks in all other countries where they are used, and ArcExplorer is a trademark of Environmental Systems Research, Inc.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - CERSC Data Management Services Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 25, Mail Stop 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>datamgt@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>https://www.sciencebase.gov/catalog/file/get/60ad3d53d34e4043c850f275?f=__disk__16%2F5b%2F8e%2F165b8ed8e6ffcafcb9bc39a133d7b28f34cb8e1c</browsen>
+      <browset>JPEG</browset>
+    </browse>
+    <datacred>Digital Map Compilation - Feliks Persits
+Geological Attribution - Feliks Persits, Douglas Steinshouer
+Province Boundaries    - Gregory Ulmishek
+Province Boundaries Digital Compilation - Lee Osmonson
+Oil and Gas Database - Tim Klett
+Metadata - Feliks Persits, B.S. Larson, Laura R.H. Biewick</datacred>
+    <secinfo>
+      <secsys>None</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>None</sechandl>
+    </secinfo>
+    <native>SunOS, 5.6, sun4u UNIX, ARC/INFO version 7.1.2</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Overall accuracy is based on accuracy of general geology coverage.  Since all the attributes are of character type, only correctness of polygon labeling can be provided (see below).</attraccr>
+      <qattracc>
+        <attraccv>Standard ARC/INFO attributes accuracy in Feature Attributes Tables like AREA, PERIMETER, etc. depend on horizontal positional accuracy.  All the additional attributes are character type.</attraccv>
+        <attracce>All the Attributes besides standard ARC/INFO atttibutes are of character type.  Standard verification of attributes reliability has been done by ARC/INFO EDITPLOT program to find polygons without assigned character value or with more than one value.</attracce>
+      </qattracc>
+    </attracc>
+    <logic>Polygon topology present.</logic>
+    <complete>N/A</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>1. Original geological maps are of 750 meter maximum accuracy (0.1 mm on paper map of 1:7,500,000 scale)
+2. Scanned images are of 200 dot/inch resolution (0.1 mm on paper).  That is why fuzzy tolerance for CLEAN programm in ARC/INFO is set to 1500 m (two pixels).
+3. Several steps are taken to vectorize scanned images.  The projection and coordinate system for the original map are not given. Therefore it is necessary to georeference the map to real world coordinates. This is done as follows:  3.1. The latitude/longitude graticule with cell size 4 * 6 degree is projected to Equidistant Conic projection and then used to create ARC/INFO point coverage.  That point coverage is used to create "to - from" links by ARC/INFO CONTROLPOINTS program.
+3.2  A gray-scale scanned image of the original paper map is transformed to Equidistant Conic projection by ARC/INFO GRIDWARP program (polynomial of the second order) using the "to - from" links created by CONTROLPOINTS program.
+3.3  The scanned image from the second step is vectorized by the method of extraction of linear features described by F.Persits, 1997, (USGS open-file report OF-97-713), and then corrected by hands-on digitization.
+3.4  A series of piecewise "rubbersheet" transformations are applied to the final ARC/INFO coverage.  The ARC/INFO coverages that are used for transformation were ESRI's ArcWorld 1:3 million GIS cartographic layers.  Overall position error is estimated with a randomly selected set of locations on the ESRI coverages and comparing the same locations on the final geology coverage (geo1).  RMS error is 4.8 km (0.64 mm of the original paper map) with maximum error about 12 km (1.6 mm on original paper map).</horizpar>
+        <qhorizpa>
+          <horizpav>4800 meters</horizpav>
+          <horizpae>see above section - Horizontal_Positional_Accuracy_Report.</horizpae>
+        </qhorizpa>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Vsesoyuzniy Nauchno-Issledovatel'skiy Geologicheskiy Institute (VSEGEI)</origin>
+            <pubdate>1966</pubdate>
+            <title>Geologic Map of The USSR, scale 1:7,500,000</title>
+            <edition>1966</edition>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Leningrad, USSR</pubplace>
+              <publish>Ministry of Geology of the USSR</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>7500000</srcscale>
+        <typesrc>Paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1966</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Paper Geologic Map</srccitea>
+        <srccontr>The two paper map sheets are used as the sources for creation of the corresponding ARC/INFO coverages.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Procedures_Used:
+Scanning original paper maps on large format Anatech Eagle scanner.  There is one copy for each of two sheets - gray scale (after original map scanning).  Images are in TIFF format at 200 dot/inch resolution.  The images then transformed to Equidistant Conic Projection by ARC/INFO GRIDWARP program (polynomial of the second order).  The "from-to" links for transformation are created by ARC/INFO CONTROLPOINTS program where latitude/longitude grid (point coverage) with cell size 6X4 degrees is used as a reference.  Georeferenced gray scale images from the first step are vectorized by the method of extraction linear features described by F. Persits, 1997, (USGS open-file report OF-97-713), and then corrected by hands-on digitizing.  After the vectorizing is completed, a series of piecewise "rubbersheet" transformations are applied to the ARC/INFO coverages created The ARC/INFO coverages used as reference for transformation are ESRI's ArcWorld 1:3 million GIS cartographic layers (RIV3M, CTRY3M).  To perform rubber transformation the combination of ARC/INFO ARCEDIT (add links) and ADJUST programs are applied.  There are a number of such transformations for every limited area on original coverage.  The geology attribute data are assigned using standardized geologic symbols for the World Energy project.  Although all polygons from the source maps are included in the data, geology was simplified from its original version, and attributed only by overall age; no technical division was made of geologic ages into upper, lower, early, late, etc., nor were geologic units differentiated within any particular geologic age or region as they appear on the source maps.  This is particularily true for Precambrian units.  ESRI's ArcInfo GIS system is used for cleaning and attributing.  Topology is created.  Some attributes are combined and some polygons generalized.
+Reviews_Applied_to_Data:
+Attributes and contacts are verified via visual editing and review.  A minimum of two reviewers examine and compare digital versions versus orignal material.  A comparison between color plot and original paper map was carried out by visual comparison.  Color plots in 1:7,500,000 scale were superimposed on each of corresponding original map sheets.  All errors detected in attributes were corrected.
+Other_References_Cited:
+Vsesoyuzniy Nauchno-Issledovatel'skiy Geologicheskiy Institute (VSEGEI), 1966, Geologic Map of The USSR, scale 1:7,500,000, Ministry of Geology of the USSR, Leningrad, USSR
+Scanned images 199710 Georeference gray-scale images</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Point</sdtstype>
+        <ptvctcnt>11296</ptvctcnt>
+      </sdtsterm>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>25847</ptvctcnt>
+      </sdtsterm>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>11297</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Equidistant Conic</mapprojn>
+          <equicon>
+            <stdparll>58.5</stdparll>
+            <longcm>100.0</longcm>
+            <latprjo>60.0</latprjo>
+            <feast>0</feast>
+            <fnorth>0</fnorth>
+          </equicon>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>1</absres>
+            <ordres>1</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <ellips>Krasovsky</ellips>
+        <semiaxis>6378245</semiaxis>
+        <denflat>0.996647681</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Surficial geology</enttypl>
+        <enttypd>the geology of each polygon by stratigraphic unit, age, and/or lithology.</enttypd>
+        <enttypds>U.S. Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>glg</attrlabl>
+        <attrdef>The abbreviated geologic age of the surficial rock formation.</attrdef>
+        <attrdefs>U.S. Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Q, QT, N, NPg, Pg, PgK, K, KJ, J, JTr, Tr, Pz, P, TrP, PC, C, CD, D, DS, S, SO, O, OCm, Cm, pC, CmPt, Pt, Z, Y, X, A, Qv, Ti, Mi, Pi, PtAi, ii, oth, Ice, H2O, Sea</edomv>
+            <edomvd>Range of geologic age values taken from original map legend:
+Q - Quaternary (undivided)
+QT - Quaternary and Tertiary
+N - Neogene
+NPg - Neogene and Paleogene
+Pg - Paleogene
+PgK - Paleogene and Cretaceous
+K - Cretaceous (undivided)
+KJ - Cretaceous and Jurassic
+J - Jurassic (undivided)
+JTr - Jurassic and Triassic
+Tr - Triassic
+Pz - Paleozoic (undivided)
+P - Permian
+TrP - Triassic and Permian
+PC - Permian - Carboniferous
+C - Carboniferous
+CD - Carboniferous and Devonian
+D - Devonian (undivided)
+DS - Devonian and Silurian
+S - Silurian
+SO - Silurian - Ordovician
+O - Ordovician
+OCm - Ordovician - Cambrian
+Cm - Cambrian
+pC - Precambrian (undivided)
+CmPt - Cambrian - Proterozoic
+Pt - Proterozoic
+Z - Upper Proterozoic
+Y - Upper and Middle Proterozoic
+X - Lower and Middle Proterozoic
+A - Archean
+Qv - Extrusive rocks, Pliocene and Quaternary
+TKi - Acidic intrusive rocks, Creteceous, Paleogene and Neogene
+Mi - Acidic Mesozoic intrusive rocks
+Pi - Paleozoic intrusive rocks
+PtAi - Acidic Proterozoic and Archean intrusive rocks
+ii - Basic, Ultrabasic and Alkaline intrusive rocks of unknown age
+oth - Areas outside of the former Soviet Union
+Ice - Arctic areas covered by Ice
+Sea - Sea and large lakes
+H2O - Lakes and wide rivers</edomvd>
+            <edomvds>U.S.Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <techpreq>https://www.esri.com/software/arcexplorer/index.html</techpreq>
+    <availabl>
+      <timeinfo>
+        <sngdate>
+          <caldate>199806</caldate>
+        </sngdate>
+      </timeinfo>
+    </availabl>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9GUL0PQ</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20210525</metd>
+    <metrd>19980913</metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - CERSC Data Management Services Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 25, Mail Stop 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>datamgt@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

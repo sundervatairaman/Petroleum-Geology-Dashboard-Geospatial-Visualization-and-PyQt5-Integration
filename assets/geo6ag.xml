@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Schenk, Christopher J</origin>
+        <origin>Viger, Roland</origin>
+        <origin>Anderson, Christopher P</origin>
+        <pubdate>19990629</pubdate>
+        <title>South America Geologic Map (geo6ag)</title>
+        <geoform>Downloadable GIS Data</geoform>
+        <pubinfo>
+          <pubplace>Reston,VA</pubplace>
+          <publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9A3OJ9B</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <origin>Christopher J. Schenk, Roland J. Viger, and Christopher P. Anderson</origin>
+            <pubdate>199908</pubdate>
+            <title>Maps Showing Geology, Oil and Gas Fields, and Geologic Provinces of South America</title>
+            <geoform>Digital Maps</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey Open-File Report</sername>
+              <issue>OFR-97-470-D</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Denver, Colorado, USA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Open File Report 97-470D is one of a series of continental-scale geologic maps of the world being published on CD-ROM by the U.S. Geological Survey's World Energy Project.</othercit>
+            <onlink>https://geology.cr.usgs.gov/energy/WorldEnergy/OF97-470D/</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>South America is part of Region 6 (Central and South
+America) for the World Energy Assessment.  The geologic
+map of South America was digitized so that we could
+use the geology as a general guide to draw the
+boundaries of the geologic provinces of South America.</abstract>
+      <purpose>The purpose of digitizing the geologic map was to
+allow us to have a geologic base on which we drew the
+boundaries of the geologic provinces of South America.
+The geologic map was used as a guide for placing
+province boundaries rather than as a location map for
+very specific geologic entities.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19990629</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-81.3172</westbc>
+        <eastbc>-34.7695</eastbc>
+        <northbc>13.3382</northbc>
+        <southbc>-55.9755</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Geology</themekey>
+        <themekey>Oil</themekey>
+        <themekey>Gas</themekey>
+        <themekey>Geologic Province</themekey>
+        <themekey>Geologic Map</themekey>
+        <themekey>Oil and Gas Fields</themekey>
+        <themekey>Petroleum</themekey>
+        <themekey>Assessment</themekey>
+      </theme>
+      <theme>
+        <themekt>Gateway to the Earth Thesaurus</themekt>
+        <themekey>Oil shale resources</themekey>
+        <themekey>Oil sand resources</themekey>
+        <themekey>Natural gas resources</themekey>
+        <themekey>Economic geology</themekey>
+      </theme>
+      <theme>
+        <themekt>ArcIMS Metadata Server Theme Codes Thesaurus</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Energy Program Themes Thesaurus</themekt>
+        <themekey>Earth Science</themekey>
+        <themekey>Natural Resources</themekey>
+        <themekey>U.S. Geological Survey</themekey>
+        <themekey>USGS</themekey>
+        <themekey>Geology</themekey>
+        <themekey>Oil</themekey>
+        <themekey>Natural Gas</themekey>
+        <themekey>Petroleum</themekey>
+        <themekey>Resource Assessment</themekey>
+      </theme>
+      <theme>
+        <themekt>EnergyResourceActivities</themekt>
+        <themekey>oilgas</themekey>
+        <themekey>wep</themekey>
+        <themekey>worldgeologicmaps</themekey>
+        <themekey>samerica</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:60ad3de6d34e4043c850f2bc</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>South America</placekey>
+        <placekey>Argentina</placekey>
+        <placekey>Bolivia</placekey>
+        <placekey>Brazil</placekey>
+        <placekey>Chile</placekey>
+        <placekey>Columbia</placekey>
+        <placekey>Ecuador</placekey>
+        <placekey>Faulkland Islands</placekey>
+        <placekey>French Guiana</placekey>
+        <placekey>Guyana</placekey>
+        <placekey>Netherlands Antilles</placekey>
+        <placekey>Paraguay</placekey>
+        <placekey>Peru</placekey>
+        <placekey>Suriname</placekey>
+        <placekey>Trinidad and Tobago</placekey>
+        <placekey>Uruguay</placekey>
+        <placekey>Venezuela</placekey>
+        <placekey>AR</placekey>
+        <placekey>BL</placekey>
+        <placekey>BR</placekey>
+        <placekey>CI</placekey>
+        <placekey>CO</placekey>
+        <placekey>EC</placekey>
+        <placekey>GY</placekey>
+        <placekey>NL</placekey>
+        <placekey>PA</placekey>
+        <placekey>PE</placekey>
+        <placekey>NS</placekey>
+        <placekey>TD</placekey>
+        <placekey>UY</placekey>
+        <placekey>VE</placekey>
+      </place>
+      <place>
+        <placekt>USGS Energy Program Petroleum Assessment Units</placekt>
+        <placekey>Guyana Shield, Province 6002</placekey>
+        <placekey>Brazilian Shield, Province 6003</placekey>
+        <placekey>Brazilian Shield, Province 6004</placekey>
+        <placekey>Brazilian Shield, Province 6005</placekey>
+        <placekey>Andean Province 6006</placekey>
+        <placekey>Familina Province 6007</placekey>
+        <placekey>North Patagonia Province 6008</placekey>
+        <placekey>Deseado Province 6009</placekey>
+        <placekey>Tacutu Basin, Province 6010</placekey>
+        <placekey>Solimoes Basin, Province 6011</placekey>
+        <placekey>Amazonas Basin, Province 6012</placekey>
+        <placekey>Sucunduri Province 6013</placekey>
+        <placekey>Parecis Province 6014</placekey>
+        <placekey>Xingu Province 6015</placekey>
+        <placekey>Parnaiba Basin, Province 6016</placekey>
+        <placekey>Sao Francisco Basin, Province 6017</placekey>
+        <placekey>Diamantina Province 6018</placekey>
+        <placekey>Araripe Province 6019</placekey>
+        <placekey>Parana Basin, Province 6020</placekey>
+        <placekey>Guyana-Suriname Basin, Province 6021</placekey>
+        <placekey>Foz do Amazonas Basin, Province 6022</placekey>
+        <placekey>Santana Platform, Province 6023</placekey>
+        <placekey>San Luis Basin, Province 6024</placekey>
+        <placekey>Barreieinas Basin, Province 6025</placekey>
+        <placekey>Caera Basin, Province 6026</placekey>
+        <placekey>Potigar Basin, Province 6027</placekey>
+        <placekey>Pernambuco Basin, Province 6028</placekey>
+        <placekey>Sergipe-Alagoas Basin, Province 6029</placekey>
+        <placekey>Jatoba Basin, Province 6030</placekey>
+        <placekey>Tucano Basin, Province 6031</placekey>
+        <placekey>Reconcavo Basin, Province 6032</placekey>
+        <placekey>Bahia Sul Basin, Province 6033</placekey>
+        <placekey>Espirito Santo Basin, Province 6034</placekey>
+        <placekey>Campos Basin, Province 6035</placekey>
+        <placekey>Santos Basin, Province 6036</placekey>
+        <placekey>Pelotas Basin, Province 6037</placekey>
+        <placekey>Santiago Basin, Province 6038</placekey>
+        <placekey>Huallaga Basin, Province 6039</placekey>
+        <placekey>Ucayali Basin, Province 6040</placekey>
+        <placekey>Putumayo-Oriente-Maranon Basin, Province 6041</placekey>
+        <placekey>Acre Basin, Province 6042</placekey>
+        <placekey>Madre dos Dios Basin, Province 6043</placekey>
+        <placekey>Beni Basin, Province 6044</placekey>
+        <placekey>Santa Cruz-Tarija Basin, Province 6045</placekey>
+        <placekey>Oran-Olmedo Basin, Province 6046</placekey>
+        <placekey>Chaco Basin, Province 6047</placekey>
+        <placekey>Bolsones Basin, Province 6048</placekey>
+        <placekey>Bermejo Basin, Province 6049</placekey>
+        <placekey>Mascasin Basin, Province 6050</placekey>
+        <placekey>Cuyo Basin, Province 6051</placekey>
+        <placekey>Mercedes Basin, Province 6052</placekey>
+        <placekey>Laboulaye-Macachin Basin, Province 6053</placekey>
+        <placekey>Salado Basin, Province 6054</placekey>
+        <placekey>Neuquen Basin, Province 6055</placekey>
+        <placekey>Nirihuau Basin, Province 6056</placekey>
+        <placekey>Colorado Basin, Province 6057</placekey>
+        <placekey>San Jorge Basin, Province 6058</placekey>
+        <placekey>Magallanes Basin, Province 6059</placekey>
+        <placekey>Falklands Plateau, Province 6060</placekey>
+        <placekey>East Patagonia Basin, Province 6061</placekey>
+        <placekey>Malvinas Plateau, Province 6062</placekey>
+        <placekey>Malvinas Basin, Province 6063</placekey>
+        <placekey>Malvinas Trough, Province 6064</placekey>
+        <placekey>Altiplano Basin, Province 6065</placekey>
+        <placekey>Moquegua-Tamaruga Basin, Province 6066</placekey>
+        <placekey>Salar de Atacama Basin, Province 6067</placekey>
+        <placekey>Curico Basin, Province 6068</placekey>
+        <placekey>Temuco Basin, Province 6069</placekey>
+        <placekey>Osorno-Llanquihue Basin, Province 6070</placekey>
+        <placekey>Diego Ramirez Basin, Province 6071</placekey>
+        <placekey>Madre de Dios Basin, Province 6072</placekey>
+        <placekey>Penas Basin, Province 6073</placekey>
+        <placekey>Central Chile Forearc Basin, Province 6074</placekey>
+        <placekey>Mollendo-Tarapaca Basin, Province 6075</placekey>
+        <placekey>Pisco Basin, Province 6076</placekey>
+        <placekey>Lima Basin, Province 6077</placekey>
+        <placekey>Salaverry Basin, Province 6078</placekey>
+        <placekey>Trujillo Basin, Province 6079</placekey>
+        <placekey>Sechura Basin, Province 6080</placekey>
+        <placekey>Talara Basin, Province 6081</placekey>
+        <placekey>Lancones Basin, Province 6082</placekey>
+        <placekey>Progreso Basin, Province 6083</placekey>
+        <placekey>Manabi Basin, Province 6084</placekey>
+        <placekey>Borbon Basin, Province 6085</placekey>
+        <placekey>Cauca Basin, Province 6086</placekey>
+        <placekey>Choco Pacific Basin, Province 6087</placekey>
+        <placekey>Pacific Offshore Basin, Province 6088</placekey>
+        <placekey>Upper Magdalena, Province 6089</placekey>
+        <placekey>Middle Magdalena, Province 6090</placekey>
+        <placekey>Lower Magdalena, Province 6091</placekey>
+        <placekey>Eastern Cordillera Basin, Province 6092</placekey>
+        <placekey>Perija-Venezuela-Coastal Ranges, Province 6093</placekey>
+        <placekey>Cesar Basin, Province 6094</placekey>
+        <placekey>Guajira Basin, Province 6095</placekey>
+        <placekey>Llanos Basin, Province 6096</placekey>
+        <placekey>Barinas-Apure Basin, Province 6097</placekey>
+        <placekey>East Venezuela Basin, Province 6098</placekey>
+        <placekey>Maracaibo Basin, Province 6099</placekey>
+        <placekey>Falcon Basin, Province 6100</placekey>
+        <placekey>Bonaire Basin, Province 6101</placekey>
+        <placekey>Cariaco Basin, Province 6102</placekey>
+        <placekey>Tobago Trough, Province 6103</placekey>
+        <placekey>South Caribbean Deformed Belt, Province 6104</placekey>
+        <placekey>Sierra Nevada de Santa Marta, Province 6105</placekey>
+        <placekey>West-Central Cordillera, Province 6106</placekey>
+        <placekey>Lesser Antilles Deformed Belt, Province 6107</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Portions of this database covering coastline and
+country boundaries contain intellectual property of Environmental
+Systems Research Institute, Inc. (ESRI), and are used with their
+permission. End users are permitted to use these data sets for
+their own internal use, including derivative work, but are
+prohibited from using and redistributing these data
+individually or in a derivative work to third parties.  ESRI is a registered trademark in the
+United States and either a trademark or registered trademark
+in all other countries where it is used, and ArcExplorer,
+Arc/Info and Arcworld are trademarks of Environmental Systems
+Research, Inc.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - CERSC Data Management Services Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 25, Mail Stop 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>datamgt@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>https://www.sciencebase.gov/catalog/file/get/60ad3de6d34e4043c850f2bc?f=__disk__6b%2F08%2F1e%2F6b081ede73d6fa2327027f4e9cb28b01bba6ca20</browsen>
+      <browset>JPEG</browset>
+    </browse>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The geologic attributes are combinations of those used
+on the original geologic source map. The assumption
+was made that the original geologic boundaries were
+accurate at a scale of 1:5,000,000, and that the original geologic
+attributions on the source map were correct.</attraccr>
+    </attracc>
+    <logic>The digitized geologic boundaries were overlain on the
+geologic source map and checked for errors, and the
+errors were corrected in the digital file using ArcEdit.</logic>
+    <complete>The geology of the entire continent of South America was
+digitized from the source map.  We made several groupings
+of geologic units that were present on the source map, but
+all original geologic boundaries remain on the digital map.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>A visual comparison was made between paper
+copies of the digital geologic map and the
+source map. The horizontal accuracy of the
+boundaries should not be considered accurate at
+a scale larger than approximately 1:7,500,000.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Committee on the World Geologic Map</origin>
+            <pubdate>1964</pubdate>
+            <title>Geologic map of South America:  Rio de Janiero, Brazil</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>5000000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1964</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+      </srcinfo>
+      <procstep>
+        <procdesc>The geologic boundaries and a series of
+latitude-longitude points of the source map were
+inked onto a mylar overlay, and the overlay was
+scanned at 300 dpi using a large-format scanner
+to produce a TIFF image file.  The TIFF was
+converted into an Arc Grid, and then into an Arc
+Vector coverage.  The coverage was then
+transformed into a bipolar-oblique projection.
+Approximately 5000 geologic polygons were
+attributed with a scheme modified considerably
+from that of the source map. The symbols for
+the geologic attribution were made from a
+standard set developed for the World Energy
+Project.</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>4960</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>geo6ag.pat</enttypl>
+        <enttypd>Polygon Attribute Table</enttypd>
+        <enttypds>none</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Glg</attrlabl>
+        <attrdef>glg represents the abbreviated geologic age of various geologic
+rock units on the geologic map.</attrdef>
+        <attrdefs>U.S. Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Q, T, K, JK, J, TrJ, Tr, PZMZ, P,  CP, C, D, S, OS, CmO, Cm, AD, PZ, APZ, Qv, Cv, Mv, Pv, PZv, MCi, PMi, Mm, PZm, pC, H2O, Ice,  U, "unlabeled"</edomv>
+            <edomvd>Range of geologic age values taken from original map legend:
+Q - Quaternary (undivided)
+T - Tertiary
+K - Cretaceous (undivided)
+JK - Cretaceous and Jurassic
+J - Jurassic (undivided)
+TrJ - Jurassic and Triassic
+Tr - Triassic
+PZMZ - Paleozoic-Mesozoic
+P - Permian
+CP - Permian - Carboniferous
+C - Carboniferous
+D - Devonian (undivided)
+S - Silurian
+OS - Silurian - Ordovician
+CmO - Ordovician - Cambrian
+Cm - Cambrian
+AD - Precambrian - Devonian
+PZ - Paleozoic
+APZ - Precambrian - Paleozoic
+Qv - Quaternary volcanics
+Cv - Creteceous - Tertiary volcanics
+Mv - Mesozoic volcanics
+Pv - Permian volcanics
+PZv - Paleozoic volcanics
+MCi - Mesozoic - Cenozoic intrusives
+PMi - Paleozoic - Mesozoic intrusives
+Mm - Mesozoic metamorphics
+PZm - Paleozoic metamorphics
+pC - Precambrian (undivided)
+Ice - Arctic areas covered by Ice
+H2O - Lakes and wide rivers
+U - Unmappedd area
+"" - "unlabeled"</edomvd>
+            <edomvds>U.S.Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9A3OJ9B</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20210525</metd>
+    <metrd>20040707</metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - CERSC Data Management Services Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 25, Mail Stop 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>datamgt@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

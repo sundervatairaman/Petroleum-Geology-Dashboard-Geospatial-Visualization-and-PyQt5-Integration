@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>French, Christopher D.</origin>
+        <origin>Schenk, Christopher J</origin>
+        <pubdate>2004</pubdate>
+        <title>Surface Geology of the Caribbean Region (geo6bg)</title>
+        <geoform>Downloadable GIS Data</geoform>
+        <pubinfo>
+          <pubplace>Reston,VA</pubplace>
+          <publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P938YEBH</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Christopher D. French and Christopher J. Schenk, USGS, Denver, CO</origin>
+            <pubdate>2004</pubdate>
+            <title>Open-File Report 97-470-K "Map Showing Geology, Oil and Gas Fields, and Geologic Provinces of the Caribbean Region"</title>
+            <serinfo>
+              <sername>U.S. Geological Survey Open-File Report</sername>
+              <issue>OFR-97-470-K</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Denver, Colorado</pubplace>
+              <publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+            </pubinfo>
+            <othercit>Open File Report 97-470-K is one of a series of continental-scale geologic maps of the world being published on CD-ROM by the U.S. Geological Survey World Energy Project.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset includes polygons that describe the geologic age of surface outcrops of bedrock of the Caribbean region (Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, British Virgin Islands, Cayman Islands, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Netherlands Antilles, Nicaragua, Panama, Puerto Rico, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, United States, Venezuela, and the Virgin Islands (named countries may not be completely shown on map)).</abstract>
+      <purpose>To delineate geologic contacts and thematically depict generalized geologic age of outcrops in Open File Report 97-470-K Map Showing Geology, Oil and Gas Fields, and Geologic Provinces of the Caribbean Region, which was compiled as a reference for the U.S. Geological Survey World Energy Project assessment of undiscovered, technically recoverable oil and gas resources of the world.  This dataset was used to produce maps in ESRI ArcMap 8.3 and Adobe Acrobat PDF formats.  Files were exported from geodatabase feature class to ESRI shapefile and ArcInfo export formats for use in other applications.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2004</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-93.015633</westbc>
+        <eastbc>-58.475106</eastbc>
+        <northbc>28.000000</northbc>
+        <southbc>7.026141</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Geology</themekey>
+        <themekey>Age</themekey>
+        <themekey>Geologic Age</themekey>
+        <themekey>Oil</themekey>
+        <themekey>Gas</themekey>
+        <themekey>Geologic Province</themekey>
+        <themekey>Geologic Map</themekey>
+        <themekey>Surface Geology</themekey>
+        <themekey>World Energy Resources</themekey>
+        <themekey>World Energy Project</themekey>
+      </theme>
+      <theme>
+        <themekt>Gateway to the Earth draft 9 28-Jun-2002</themekt>
+        <themekey>Coal resources</themekey>
+        <themekey>Coalbed methane resources</themekey>
+        <themekey>Natural gas resources</themekey>
+        <themekey>Economic geology</themekey>
+        <themekey>Oil resources</themekey>
+      </theme>
+      <theme>
+        <themekt>ArcIMS Metadata Server Theme Codes</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>economy</themekey>
+        <themekey>environment</themekey>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <theme>
+        <themekt>Central Energy Resources Team Keyword Thesaurus</themekt>
+        <themekey>Earth Science</themekey>
+        <themekey>U.S. Geological Survey</themekey>
+        <themekey>USGS</themekey>
+        <themekey>Geology</themekey>
+        <themekey>Natural Gas</themekey>
+        <themekey>Petroleum</themekey>
+        <themekey>Coalbed Methane</themekey>
+        <themekey>Coal</themekey>
+        <themekey>Resource Assessment</themekey>
+      </theme>
+      <theme>
+        <themekt>EnergyResourceActivities</themekt>
+        <themekey>oilgas</themekey>
+        <themekey>wep</themekey>
+        <themekey>worldgeologicmaps</themekey>
+        <themekey>caribbean</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:60abf6aad34ea221ce51f5f1</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Caribbean</placekey>
+        <placekey>Anguilla</placekey>
+        <placekey>Antigua and Barbuda</placekey>
+        <placekey>Aruba</placekey>
+        <placekey>Bahamas</placekey>
+        <placekey>Barbados</placekey>
+        <placekey>Belize</placekey>
+        <placekey>British Virgin Islands</placekey>
+        <placekey>Cayman Islands</placekey>
+        <placekey>Colombia</placekey>
+        <placekey>Costa Rica</placekey>
+        <placekey>Cuba</placekey>
+        <placekey>Dominica</placekey>
+        <placekey>Dominican Republic</placekey>
+        <placekey>El Salvador</placekey>
+        <placekey>Grenada</placekey>
+        <placekey>Guadeloupe</placekey>
+        <placekey>Guatemala</placekey>
+        <placekey>Guyana</placekey>
+        <placekey>Haiti</placekey>
+        <placekey>Honduras</placekey>
+        <placekey>Jamaica</placekey>
+        <placekey>Martinique</placekey>
+        <placekey>Mexico</placekey>
+        <placekey>Monserrat</placekey>
+        <placekey>Netherlands Antilles</placekey>
+        <placekey>Nicaragua</placekey>
+        <placekey>Panama</placekey>
+        <placekey>Puerto Rico</placekey>
+        <placekey>St. Kitts and Nevis</placekey>
+        <placekey>St. Lucia</placekey>
+        <placekey>St. Vincent and the Grenadines</placekey>
+        <placekey>Trinidad and Tobago</placekey>
+        <placekey>Turks and Caicos Islands</placekey>
+        <placekey>United States</placekey>
+        <placekey>Venezuela</placekey>
+        <placekey>Virgin Islands</placekey>
+        <placekey>AG</placekey>
+        <placekey>AI</placekey>
+        <placekey>AN</placekey>
+        <placekey>AW</placekey>
+        <placekey>BB</placekey>
+        <placekey>BS</placekey>
+        <placekey>BZ</placekey>
+        <placekey>CO</placekey>
+        <placekey>CR</placekey>
+        <placekey>CU</placekey>
+        <placekey>DM</placekey>
+        <placekey>DO</placekey>
+        <placekey>GD</placekey>
+        <placekey>GP</placekey>
+        <placekey>GT</placekey>
+        <placekey>GY</placekey>
+        <placekey>HN</placekey>
+        <placekey>HT</placekey>
+        <placekey>JM</placekey>
+        <placekey>KN</placekey>
+        <placekey>KY</placekey>
+        <placekey>LC</placekey>
+        <placekey>MQ</placekey>
+        <placekey>MS</placekey>
+        <placekey>MX</placekey>
+        <placekey>NI</placekey>
+        <placekey>PA</placekey>
+        <placekey>PR</placekey>
+        <placekey>SV</placekey>
+        <placekey>TT</placekey>
+        <placekey>TC</placekey>
+        <placekey>US</placekey>
+        <placekey>VC</placekey>
+        <placekey>VE</placekey>
+        <placekey>VI</placekey>
+        <placekey>VQ</placekey>
+        <placekey>Aves Ridge (6109)</placekey>
+        <placekey>Bahama Platform (6119)</placekey>
+        <placekey>Barbados Accretionary Complex (6127)</placekey>
+        <placekey>Barinas-Apure Basin (6097)</placekey>
+        <placekey>Beata Ridge (6111)</placekey>
+        <placekey>Bonaire Basin (6101)</placekey>
+        <placekey>Cariaco Basin (6102)</placekey>
+        <placekey>Cayman Ridge (6121)</placekey>
+        <placekey>Cayman Trough (6120)</placekey>
+        <placekey>Cesar Basin (6094)</placekey>
+        <placekey>Chiapas Massif-Nuclear Central America (6122)</placekey>
+        <placekey>Choco Pacific Basin (6087)</placekey>
+        <placekey>Colombian Basin (6112)</placekey>
+        <placekey>East Venezuela Basin (6098)</placekey>
+        <placekey>Falcon Basin (6100)</placekey>
+        <placekey>Florida Peninsula (5050)</placekey>
+        <placekey>Greater Antilles Deformed Belt (6117)</placekey>
+        <placekey>Grenada Back-Arc Basin (6126)</placekey>
+        <placekey>Guajira Basin (6095)</placekey>
+        <placekey>Gulf Cenozoic OCS (5097)</placekey>
+        <placekey>Gulf Cenozoic OCS (5098)</placekey>
+        <placekey>Guyana-Suriname Basin (6021)</placekey>
+        <placekey>Guyana Shield (6002)</placekey>
+        <placekey>Lesser Antilles Deformed Belt (6107)</placekey>
+        <placekey>Llanos Basin (6096)</placekey>
+        <placekey>Lower Magdelena (6091)</placekey>
+        <placekey>Macuspana Basin (5306)</placekey>
+        <placekey>Maracaibo Basin (6099)</placekey>
+        <placekey>Maya Mountains (6125)</placekey>
+        <placekey>Middle America Province (6113)</placekey>
+        <placekey>Middle Magdelena (6090)</placekey>
+        <placekey>Neogene Volcanic Belt (6108)</placekey>
+        <placekey>North Caribbean Deformed Belt (6116)</placekey>
+        <placekey>North Nicaraguan Rise (6114)</placekey>
+        <placekey>Ocean (0)</placekey>
+        <placekey>Ocean (1)</placekey>
+        <placekey>Pacific Offshore Basin (6088)</placekey>
+        <placekey>Perjira-Venezuela-Coastal Ranges (6093)</placekey>
+        <placekey>Puerto Rico Trench (6118)</placekey>
+        <placekey>Saline-Comalcalco Basin (5304)</placekey>
+        <placekey>Sierra Madre de Chiapas-Peten Foldbelt (5310)</placekey>
+        <placekey>Sierra Nevada de Santa Marta (6105)</placekey>
+        <placekey>South Caribbean Accretionary Prism (6104)</placekey>
+        <placekey>South Nicaraguan Rise (6115)</placekey>
+        <placekey>Tobago Trough (6103)</placekey>
+        <placekey>Venezuelan Basin (6110)</placekey>
+        <placekey>Villahermosa Uplift (5305)</placekey>
+        <placekey>West-Central Cordillera (6106)</placekey>
+        <placekey>Yucatan Basin (6123)</placekey>
+        <placekey>Yucatan Platform (5308)</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - CERSC Data Management Services Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 25, Mail Stop 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>datamgt@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Scanning of source map, georeferencing, digitizing, attributing, editing and preparation of geodatabase feature class - Christopher D. French
+Metadata Creation - Christopher D. French
+Project coordination - Christopher J. Schenk</datacred>
+    <native>Microsoft Windows XP Professional 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Some special geologic age symbols have been modified to use standard character types.  Examples of this modification occur in the geologic characters for Triassic, Mesozoic, and Precambrian rock types.  No generalization (grouping) was performed on geologic age attributes.  Any unidentified polygons on source map attributed as "Und" - Undetermined.
+
+Scanned source maps used as a reference for attributing.</attraccr>
+    </attracc>
+    <logic>Polygon topology exists.  Geodatabase topology rules used to identify and correct gaps and overlaps in polygon feature class.  Geodatabase coded domains used for attributing.  Polygons are bounded at perimeter of extent.
+
+Most geologic descriptions follow naming conventions found on original source map.  Some descriptions may be abbreviated.  Several polygons were of an undetermined age because of printing problems or lack of clarity on original source map.  There was no grouping of ages in the attributing process.</logic>
+    <complete>Complete</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Horizontal positional accuracy was not formally quantified.  Some details about the scanning and referencing process along with errors are stated below.
+
+1)  Original source map was provided in two plates at a scale of 1:2,500,000.  Each plate was scanned at 300 dpi in RGB color mode.  Adobe Photoshop 6.0 was used to merge east and west images together at edges.  Some discrepancies were noticed on edge match.  Edge mismatch was no greater than 500 m in a few areas, while good matches were found elsewhere.  Discrepancies were averaged while digitizing.  
+
+2)  A vector dataset orginating from the National Imagery and Mapping Agency (NIMA) Digital Chart of the World (DCW) series was available for georeferencing.  This dataset is known to have a nominal scale of 1:1,000,000 and was available as a shapefile from the United States Geological Survey, Digital Data Series DDS-62-A Global GIS Database: Digital Atlas of Central and South America.
+
+3)  ArcMap 8.3 georeferencing tool was used to establish control points and reference merged image.  Original maps were provided in Mercator projection with true scale at 19 degrees north latitude.  Attempts were made to transform the reference shapefile to the stated projection for georeferencing, but major errors existed along southern edges of map.  A geographic coordinate system (WGS_1984) was used with more success.  57 control points were established to perform a 3rd order polynomial transformation.  Other transformation methods were attempted along with other control point placement, but resulted in more error.  A root mean square (RMS) error of 1611.8 m was recorded.
+
+4)  Discrepancies were anticipated between source map shorelines and country boundaries because of scale difference.  Other distortions may have been inherent in the source maps.  Overall dimensions of map fit well at desired display scale of 1:2,500,000.  Discrepancies in shoreline were random and variable, rarely exceeding 3,500 m.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Not Assessed</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>J.E. Case and T.L. Holcombe</origin>
+            <pubdate>1980</pubdate>
+            <title>Geologic-Tectonic Map of the Caribbean Region</title>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>Miscellaneous Investigations Series</sername>
+              <issue>Map I-1100</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>USGS</publish>
+            </pubinfo>
+            <othercit>Prepared in cooperation with the United States Naval Oceanographic Office and the United States Naval Ocean Research and Development Activity.</othercit>
+            <onlink>N/A</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>2500000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19800000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS</srccitea>
+        <srccontr>Geologic contacts and ages.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Imagery and Mapping Agency</origin>
+            <pubdate>1997</pubdate>
+            <title>VMAP_1V10-Vector map Level 0 (Digital chart of the World)</title>
+            <edition>3</edition>
+            <geoform>vector digital data</geoform>
+            <othercit>Can be found on USGS DDS-62-A (POLBNDA.shp)</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1,000,000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srccitea>NIMA</srccitea>
+        <srccontr>Used as a guide for georeferencing.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Department of Lands and Surveys, Nassau N P., Bahamas</origin>
+            <pubdate>unknown</pubdate>
+            <title>Map of Commonwealth of The Bahamas</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>1,000,000</srcscale>
+        <typesrc>paper map</typesrc>
+        <srccontr>Coastlines for Commonwealth of the Bahamas</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>P.G. Schruben, R.E. Arndt, W.J. Bawiec</origin>
+            <pubdate>1994</pubdate>
+            <title>Geologic Units of the Conterminous United States at 1:2,500,000 Scale -- A Digital Representation of the 1974 P.B. King and H.M. Beikman Map</title>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>USGS Digital Data Series</sername>
+              <issue>DDS-11</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://pubs.usgs.gov/dds/dds11/</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>2,500,000</srcscale>
+        <typesrc>online</typesrc>
+        <srccitea>USGS</srccitea>
+        <srccontr>Surface Geology for Florida</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>USGS maps were scanned at 300 dpi resolution and RGB color setting.</procdesc>
+        <srcused>USGS</srcused>
+        <procdate>20020600</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>USGS source maps merged in Adobe Photoshop 6.0.</procdesc>
+        <srcused>USGS</srcused>
+        <procdate>20020600</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Scanned source maps were registered using georeferencing tools in ArcGIS 8.3, and NIMA country boundary shapefile as a guide.</procdesc>
+        <srcused>USGS</srcused>
+        <srcused>ESRI</srcused>
+        <procdate>20020600</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Geologic contacts were digitized on screen as a personal geodatabase feature class using scanned and referenced image as a guide.</procdesc>
+        <procdate>20020600</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Geodatabase topology used used to identify and modify gaps and overlaps in polygon feature class (&gt; 1,000 errors corrected).</procdesc>
+        <procdate>20030100</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Geodatabase coded domains established to attribute feature class.  Codes and descriptions used original source map legend as a guide.  Some descriptions abbreviated.</procdesc>
+        <procdate>20030100</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata imported.</procdesc>
+        <srcused>C:\Projects\Caribbean\for_CD_teamedit\spatial\doc\geo6bg.xml</srcused>
+        <proctime>08475500</proctime>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>6343</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys></altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Surface_Geology</enttypl>
+        <enttypd>Feature Class Attribute Table</enttypd>
+        <enttypds>None</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Id</attrlabl>
+        <attrdef>Feature Identification Number</attrdef>
+        <attrdefs>User Defined</attrdefs>
+        <attrdomv></attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Age</attrlabl>
+        <attrdef>Geologic Age Code</attrdef>
+        <attrdefs>User Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>e</edomv>
+            <edomvd>Eclogite</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>g</edomv>
+            <edomvd>Gabbro and related rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>i</edomv>
+            <edomvd>Intrusive rocks, undivided, mostly intermediate to silicic</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>J</edomv>
+            <edomvd>Jurassic marine and continental strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>JTr</edomv>
+            <edomvd>Jurassic and Triassic marine and continental strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>JTru</edomv>
+            <edomvd>Jurassic and Triassic sedimentary and volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Jv</edomv>
+            <edomvd>Jurassic volcanic rocks, mostly andisitic to silicic</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Jx</edomv>
+            <edomvd>Jurassic complex of sedimentary, igneous, and metamorphic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>K</edomv>
+            <edomvd>Cretaceous marine strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Ki</edomv>
+            <edomvd>Cretaceous plutons, mostly intermediate to silicic</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Km</edomv>
+            <edomvd>Cretaceous metasedimentary and metaigneous rocks, low to intermediate metamorphic grade</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Ku</edomv>
+            <edomvd>Cretaceous sedimentary and volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Kv</edomv>
+            <edomvd>Cretaceous volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Kva</edomv>
+            <edomvd>Cretaceous andesitic to silicic volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>lKv</edomv>
+            <edomvd>Lower Cretaceous flows, breccia, and tuff, partly of marine deposition</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>lT</edomv>
+            <edomvd>Eocene and (or) Paleocene marine strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>lTv</edomv>
+            <edomvd>Eocene and Paleocene volcanic flows and associated pyroclastic and volcanogenic sedimentary rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>My</edomv>
+            <edomvd>Mylonite or cataclastic zone along major fault (Guyana Shield)</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mz</edomv>
+            <edomvd>Mesozoic sedimentary and volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mzb</edomv>
+            <edomvd>Mesozoic amphibolites and associated metasedimentary rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mzg</edomv>
+            <edomvd>Mesozoic metavolcanic and associated metasedimentary rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mzi</edomv>
+            <edomvd>Mesozoic plutons, mostly intermediate to silicic</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mzm</edomv>
+            <edomvd>Mesozoic metasedimentary and metaigneous rocks, low to intermediate metamorphic grade</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>MzPz</edomv>
+            <edomvd>Mesozoic and Paleozoic marine and continental strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>MzPzm</edomv>
+            <edomvd>Mesozoic and Paleozoic metasedimentary and metaigneous rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mzv</edomv>
+            <edomvd>Mesozoic volcanic and sedimentary rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mzva</edomv>
+            <edomvd>Mesozoic flows and small plutons, mostly intermediate to silicic</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCa</edomv>
+            <edomvd>Precambrian amphibolite and associated metasedimentary and metaigneous rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCd</edomv>
+            <edomvd>Precambrian diabase sills and dikes.  Ages 1,500 - 1,750 m.y.</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCg</edomv>
+            <edomvd>Precambrian granitic rocks.  Ages 1,000 - 1,550 m.y.</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCgn</edomv>
+            <edomvd>Precambrian quartzofeldspathic gneiss, ferruginous quartzite, and banded biotite gneiss</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCi</edomv>
+            <edomvd>Precambrian granitic rocks.  Ages 1,800 - 3,140 m.y.</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCl</edomv>
+            <edomvd>Precambrian granulite, migmatite, and iron-formation</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCm</edomv>
+            <edomvd>Precambrian metasedimentary and metaigneous rocks, undivided</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCmv</edomv>
+            <edomvd>Precambrian metamorphic rocks of low grade</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCsv</edomv>
+            <edomvd>Precambrian metasedimentary and metavolcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCu</edomv>
+            <edomvd>Precambrian igneous and metamorphic rocks, undivided</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCum</edomv>
+            <edomvd>Precambrian ultramafic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pCv</edomv>
+            <edomvd>Precambrian silicic flows, tuffs, and ignimbrites</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pz</edomv>
+            <edomvd>Paleozoic strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pzi</edomv>
+            <edomvd>Paleozoic plutons, mostly intermediate to silicic</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pzm</edomv>
+            <edomvd>Paleozoic and Precambrian metamorphic rocks, undivided</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>PzpCu</edomv>
+            <edomvd>Paleozoic and Precambrian igneous and metamorphic rocks, undivided</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pzv</edomv>
+            <edomvd>Paleozoic volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Q</edomv>
+            <edomvd>Quaternary alluvium</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>QT</edomv>
+            <edomvd>Quaternary and Tertiary marine limestone, sandstone, and shale</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>QTc</edomv>
+            <edomvd>Quaternary and Tertiary continental deposits</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>QTv</edomv>
+            <edomvd>Quaternary and Tertiary volcanic edifices, flows, tuff, silicic pyroclastic and volcanic epiclastic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Qv</edomv>
+            <edomvd>Quaternary volcanic edifices, flows, and pyroclastic deposits</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Qvi</edomv>
+            <edomvd>Quaternary pumice fills and pyroclastic mantles</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>T</edomv>
+            <edomvd>Tertiary marine strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tc</edomv>
+            <edomvd>Tertiary continental strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Te</edomv>
+            <edomvd>Eocene strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Ti</edomv>
+            <edomvd>Tertiary plutons, mostly intermediate to silicic</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TK</edomv>
+            <edomvd>Tertiary and Cretaceous marine strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TKc</edomv>
+            <edomvd>Tertiary and Cretaceous continental strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TKi</edomv>
+            <edomvd>Tertiary and Cretaceous plutons, mostly intermediate to silicic</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TKv</edomv>
+            <edomvd>Tertiary and Cretaceous volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TKx</edomv>
+            <edomvd>Tertiary and Cretaceous complex of deformed sedimentary rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tmov</edomv>
+            <edomvd>Miocene and Oligocene volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>To</edomv>
+            <edomvd>Oligocene strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tplv</edomv>
+            <edomvd>Pliocene calc-alkaline volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tpm</edomv>
+            <edomvd>Pliocene and Miocene strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tv</edomv>
+            <edomvd>Tertiary volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tva</edomv>
+            <edomvd>Pliocene and Miocene andesitic flows and associated volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>u</edomv>
+            <edomvd>Ultramafic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>uK</edomv>
+            <edomvd>Upper Cretaceous marine strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Und</edomv>
+            <edomvd>Undetermined</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>uT</edomv>
+            <edomvd>Post-Eocene marine strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>uTc</edomv>
+            <edomvd>Post-Eocene continental strata</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>v</edomv>
+            <edomvd>Volcanic rocks</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>W</edomv>
+            <edomvd>Water</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>From Source Maps</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>Description</attrlabl>
+        <attrdef>Geologic Age Description</attrdef>
+        <attrdefs>User Defined</attrdefs>
+        <attrdomv>
+          <udom>see Age attributes for descriptions</udom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>From Source Maps - Some Abbreviated - see Age attributes</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Length</attrlabl>
+        <attrdef>Length of feature in internal units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Area</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview></overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P938YEBH</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20210524</metd>
+    <metrd>20040324</metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - CERSC Data Management Services Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 25, Mail Stop 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>datamgt@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>None</metuc>
+    <metextns>
+      <onlink>https://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>
