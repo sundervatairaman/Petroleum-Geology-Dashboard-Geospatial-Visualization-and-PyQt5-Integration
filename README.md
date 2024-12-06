@@ -25,3 +25,13 @@ Ensure you have the following installed:
 Install dependencies via `pip`:
 ```bash
 pip install dash plotly geopandas pyqt5 matplotlib
+
+tree > structure.txt
+## Setup
+
+Follow these steps to get the project running:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/geospatial-visualization.git
+   cd geospatial-visualization
