@@ -10,6 +10,10 @@ This project integrates **Dash** for web-based visualizations with **PyQt5** for
 - Support for shapefiles like tectonic plates, cratons, oil and gas fields, and geological features.
 - Handles geopandas-based geospatial data processing.
 
+
+<img src="map_dashboard.gif" width="800" />
+
+
 ## Prerequisites
 
 Ensure you have the following installed:
